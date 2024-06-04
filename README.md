@@ -4,3 +4,5 @@ The Masterpiece is a self-assessment and guidance tool that highlights all skill
 # Projects
 - [Miniobot](MinioBot)
 
+# License
+This project is licensed under the [GPL-3.0 License](LICENSE).
