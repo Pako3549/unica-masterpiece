@@ -5,7 +5,7 @@ After installing the zip file, implement it in Arduino IDE (Sketches --> Include
 
 In the end, open the .ino file: when you'll open it, arduino will ask you to create a dedicated folder, obviously allow it.
 
-<strong> PS: </strong> to make MinioBot do what he was programmed to do using Bluetooth commands you can use a Serial Bluetooth Terminal (the app that has been used by us is <a href="https://www.microsoft.com/store/productId/9WZDNCRDFST8?ocid=pdpshare"> this</a>, but we've developed a more user-friendly app, but the bluetooth libreries aren't compatible with the HC06 module because it isn't a BLE device). 
+<strong> PS: </strong> to make MinioBot do what he was programmed to do using Bluetooth commands you can use a Serial Bluetooth Terminal (the app that has been used by us is <a href="https://www.microsoft.com/store/productId/9WZDNCRDFST8?ocid=pdpshare"> this</a>; we've developed a more user-friendly app, but the bluetooth libreries aren't compatible with the HC06 module because it isn't a BLE device. 
 <h1> Libraries, Variables, Macros and Servos </h1>
 There've been included 3 libreries:
 
